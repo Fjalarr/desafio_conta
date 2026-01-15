@@ -1,4 +1,4 @@
-import prompt from "./prompt.js";
+import prompt from "../prompt.js";
 
 let contas=[
     {Nome: 'Wesley', Quantidade: 200},
